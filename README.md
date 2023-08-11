@@ -1,2 +1,2 @@
 # Exemplos-luis
-exemplos de projetos
+aprendendo a usar git primeiramente
